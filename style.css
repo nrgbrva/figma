@@ -603,3 +603,9 @@ body > div.container.pc > div > div:nth-child(2){
 body > div.container.m-0.p-0.w-100.d-inline > div > div > div:nth-child(1){
     margin-bottom: 0;
 }
+a i{
+    color: wheat;
+}
+.line+p{
+    color: #868490;
+}
