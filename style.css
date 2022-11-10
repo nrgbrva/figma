@@ -349,7 +349,9 @@ height: 138.33px;
 
     border-radius: 0px 0px 12px 12px;
 }
-
+body > div.container.mb-5 > div > div.col-lg-6.d-flex.flex-column > div:nth-child(3) > div > img{
+    margin-right: 10%;
+}
 .end p:first-of-type {
     font-family: 'Poppins';
     font-style: normal;
